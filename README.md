@@ -7,4 +7,4 @@ Spring Boot Security + JWT</li>
 
 Complete explanation can be found at - https://www.javainuse.com/webseries/spring-security-jwt/chap5
 
- ![Watch the video(https://www.javainuse.com/MySQL-min.jpg)](https://youtu.be/TWfgnEyIK04)
+[![Watch the video](https://www.javainuse.com/MySQL-min.jpg)](https://youtu.be/TWfgnEyIK04)
